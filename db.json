@@ -1,0 +1,29 @@
+{
+  "students": [
+    {
+      "stuname": "",
+      "email": "",
+      "id": 1
+    },
+    {
+      "stuname": "khusgboo",
+      "email": "sauravtiwarich555@gmail.com",
+      "id": 3
+    },
+    {
+      "stuname": "sauravg tiwari",
+      "email": "sauravtiwarich555@gmail.com",
+      "id": 4
+    },
+    {
+      "stuname": "sauravg tiwari",
+      "email": "sauravtiwarich555@gmail.com",
+      "id": 5
+    },
+    {
+      "stuname": "",
+      "email": "",
+      "id": 6
+    }
+  ]
+}
